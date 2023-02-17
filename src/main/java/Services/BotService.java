@@ -309,8 +309,7 @@ public class BotService {
     //     var supernova = gameState.getGameObjects()
     //                     .stream().filter(item -> item.getGameObjectType() == ObjectTypes.SUPERNOVA_PICKUP)
     //                     .collect(Collectors.toList());
-    //     playerAction.heading = getHeadingBetween(supernova.get(0));
-    // }
+    //     playerAction.heading = getHeadingBetween(supernova.get(0));}
 
     // private void avoidSupernovaBomb(GameState gameState){
     //     var supernovaBomb = gameState.getGameObjects()
