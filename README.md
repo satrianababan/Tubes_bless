@@ -9,6 +9,7 @@ Tugas Besar I IF2211 Strategi Algoritma Semester II Tahun 2022/2023 Pemanfaatan 
 * [Requirement Program](#requirement-program)
 * [Cara Kompilasi Program](#cara-kompilasi-program)
 * [Cara Menjalankan Program](#cara-menjalankan-program)
+* [Alternatif Lain Cara Menjalankan Program](#alternatif-lain-cara-menjalankan-program)
 * [Author Program](#author-program)
 
 ## Deskripsi Singkat Tugas
