@@ -85,7 +85,7 @@ menguntungkan sehingga perlu diimplementasikan algoritma greedy nya
 
 ## Alternatif lain cara menjalankan Program
 * Untuk menjalankan Game Runner, Engine, atau Logger pada UNIX-based OS dapat memodifikasi atau langsung menjalankan “run.sh” yang tersedia pada starter-pack. 
-* Pada windows dapat menggunakan atau memodifikasi batch script seperti terdapat pada link ini [berikut](https://docs.google.com/document/d/1Iws2REmb2SkopP4pYmaNVGWE7Ft6K9KSps10ZuV9yFw/edit?usp=sharing).
+* Pada windows dapat menggunakan atau memodifikasi batch script seperti terdapat pada link [berikut](https://docs.google.com/document/d/1Iws2REmb2SkopP4pYmaNVGWE7Ft6K9KSps10ZuV9yFw/edit?usp=sharing).
 
 
 ## Author Program
