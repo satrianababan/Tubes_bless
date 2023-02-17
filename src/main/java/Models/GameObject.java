@@ -28,6 +28,9 @@ public class GameObject {
     this.teleporterCount = teleporterCount;
     this.shieldCount = shieldCount;
     this.effect = effect;
+    /*
+     * 
+     */
   }
 
   public UUID getId() {
