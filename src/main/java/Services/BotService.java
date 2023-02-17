@@ -57,7 +57,7 @@ public class BotService {
             
             if (gameState.world.getCurrentTick() == flag){ // Kondisional if akan menjalankan satu command setiap tick
                 
-                System.out.println("Tick: " + gameState.world.getCurrentTick() + " " + flag);
+                System.out.println("Tick: " + gameState.world.getCurrentTick());
                 System.out.print("Action: ");
                 
                 // Strategi Menjauhi Batas Arena jika bot terlalu ke pinggir
